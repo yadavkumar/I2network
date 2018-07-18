@@ -15,5 +15,11 @@ public:
 		int ListenOnPort();
 
 	};
+	class Logging{
+	public :
+		Logging();
+		~Logging();
+
+	};
 };
 
